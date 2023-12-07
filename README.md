@@ -26,7 +26,7 @@ This To-Do List application allows users to add tasks to a list, mark them as co
 
 Include screenshots or GIFs demonstrating your app in action here.
 
-![Demo](demo.gif)
+![Demo]([demo.gif](https://sammy-techzard.github.io/to-do-list-application/))
 
 ## Installation
 
